@@ -1,1002 +1,1802 @@
 [
   {
     "id": 1,
-    "category": "동물",
-    "level": "보통",
-    "question": "물고기 중에 가장 똑똑한 물고기는?(물고기 중에 가장 학벌이 좋은 물고기는?)",
-    "hint": "ㄱㄷㅇ",
-    "answer": "고등어",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "쉬움",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은? (1)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 2,
-    "category": "말장난",
-    "level": "쉬움",
-    "question": "왕이 넘어지면?",
-    "hint": "ㅋㅋ",
-    "answer": "킹콩",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "보통",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은? (2)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 3,
-    "category": "나라/지명",
-    "level": "쉬움",
-    "question": "세상에서 가장 큰 코는?",
-    "hint": "ㅁㅅㅋ",
-    "answer": "멕시코",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "어려움",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은? (3)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 4,
-    "category": "동물",
+    "category": "넌센스",
     "level": "쉬움",
-    "question": "발이 두 개 달린 소는?",
-    "hint": "ㅇㅂㅅ",
-    "answer": "이발소",
-    "status": "use",
-    "note": ""
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은? (4)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 5,
-    "category": "나라/지명",
+    "category": "넌센스",
     "level": "보통",
-    "question": "권투를 가장 잘하는 나라는?(싸움을 가장 좋아하는 나라는?)",
-    "hint": "ㅊㄹ",
-    "answer": "칠레",
-    "status": "use",
-    "note": ""
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은? (5)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 6,
-    "category": "자연",
-    "level": "보통",
-    "question": "노인들이 가장 좋아하는 폭포는?",
-    "hint": "ㄴㅇㅇㄱㄹㅍㅍ",
-    "answer": "나이야가라폭포",
-    "status": "use",
-    "note": ""
+    "category": "말장난",
+    "level": "어려움",
+    "question": "바다를 건너면 바다가 무엇이 될까요? (6)?",
+    "hint": "발음이 비슷한 단어를 생각해요.",
+    "answer": "건너바다",
+    "funFact": "말장난은 소리와 뜻을 연결해 상상력을 키워요."
   },
   {
     "id": 7,
-    "category": "음식",
-    "level": "수정필요",
-    "question": "고추장, 간장, 된장을 만들다 다~ 잘못 만들어버리면 무슨 장이 될까?",
-    "hint": "ㅈㅈ",
-    "answer": "젠장",
-    "status": "review",
-    "note": "어린이 앱에 욕설 느낌(젠장)이 있어 제외 권장"
+    "category": "말장난",
+    "level": "쉬움",
+    "question": "바다를 건너면 바다가 무엇이 될까요? (7)?",
+    "hint": "발음이 비슷한 단어를 생각해요.",
+    "answer": "건너바다",
+    "funFact": "말장난은 소리와 뜻을 연결해 상상력을 키워요."
   },
   {
     "id": 8,
-    "category": "동물",
-    "level": "수정필요",
-    "question": "소금을 죽이면?",
-    "hint": "ㅈㅇ",
-    "answer": "죽염",
-    "status": "review",
-    "note": "죽이다 표현이 있어 어린이 앱에서는 표현 수정 권장"
+    "category": "말장난",
+    "level": "보통",
+    "question": "바다를 건너면 바다가 무엇이 될까요? (8)?",
+    "hint": "발음이 비슷한 단어를 생각해요.",
+    "answer": "건너바다",
+    "funFact": "말장난은 소리와 뜻을 연결해 상상력을 키워요."
   },
   {
     "id": 9,
-    "category": "나라/지명",
-    "level": "쉬움",
-    "question": "호주의 돈은?",
-    "hint": "ㅎㅈㅁㄴ",
-    "answer": "호주머니",
-    "status": "use",
-    "note": ""
+    "category": "말장난",
+    "level": "어려움",
+    "question": "바다를 건너면 바다가 무엇이 될까요? (9)?",
+    "hint": "발음이 비슷한 단어를 생각해요.",
+    "answer": "건너바다",
+    "funFact": "말장난은 소리와 뜻을 연결해 상상력을 키워요."
   },
   {
     "id": 10,
-    "category": "음식",
+    "category": "말장난",
     "level": "쉬움",
-    "question": "호주의 떡은?",
-    "hint": "ㅎㄸ",
-    "answer": "호떡",
-    "status": "use",
-    "note": ""
+    "question": "바다를 건너면 바다가 무엇이 될까요? (10)?",
+    "hint": "발음이 비슷한 단어를 생각해요.",
+    "answer": "건너바다",
+    "funFact": "말장난은 소리와 뜻을 연결해 상상력을 키워요."
   },
   {
     "id": 11,
-    "category": "동물",
-    "level": "쉬움",
-    "question": "돈이 가장 많은 벌은?",
-    "hint": "ㅈㅂ",
-    "answer": "재벌",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "보통",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (11)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 12,
-    "category": "동물",
-    "level": "쉬움",
-    "question": "처음 만나는 소가 하는 말은?",
-    "hint": "ㅂㄱㅅ",
-    "answer": "반갑소",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "어려움",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (12)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 13,
-    "category": "돈/경제",
-    "level": "보통",
-    "question": "누구든지 노력하면 얻을 수 있는 금은?",
-    "hint": "ㅈㄱ",
-    "answer": "저금",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "쉬움",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (13)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 14,
-    "category": "동물",
+    "category": "넌센스",
     "level": "보통",
-    "question": "새 중에서 가장 빠른 새는?",
-    "hint": "ㄴㄲㅉㅎㅅ",
-    "answer": "눈깜짝할새",
-    "status": "use",
-    "note": ""
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (14)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 15,
-    "category": "음식",
-    "level": "쉬움",
-    "question": "먹을 수록 추워지는 음식은?",
-    "hint": "ㅊㅇㅌ",
-    "answer": "추어탕",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "어려움",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (15)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 16,
-    "category": "동물",
-    "level": "수정필요",
-    "question": "소금장수가 좋아하는 사람은?",
-    "hint": "ㅅㄱㅇ ㅅㄹ",
-    "answer": "싱거운 사람",
-    "status": "review",
-    "note": "싱겁다/사람 표현이 약간 애매해 수정 권장"
+    "category": "넌센스",
+    "level": "쉬움",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (16)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 17,
-    "category": "말장난",
-    "level": "쉬움",
-    "question": "이상한 사람들이 가는 곳은?",
-    "hint": "ㅊㄱ",
-    "answer": "치과",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "보통",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (17)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 18,
-    "category": "말장난",
-    "level": "쉬움",
-    "question": "추울 때 찾는 끈은?",
-    "hint": "ㄸㄲㄸㄲ",
-    "answer": "따끈따끈",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "어려움",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (18)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 19,
-    "category": "음식",
-    "level": "보통",
-    "question": "계속 먹으면 죽는데 안 먹을 수 없는 것은?",
-    "hint": "ㄴㅇ",
-    "answer": "나이",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "쉬움",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (19)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 20,
-    "category": "말장난",
+    "category": "넌센스",
     "level": "보통",
-    "question": "'붉은 길에 동전이 떨어져있다'를 네 글자로 하면?",
-    "hint": "ㅎㄱㄷㅈ",
-    "answer": "홍길동전",
-    "status": "use",
-    "note": ""
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (20)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 21,
-    "category": "생활",
-    "level": "보통",
-    "question": "구명 보트에는 몇 명이 탈 수 있을까?",
-    "hint": "ㅇㅎㅁ",
-    "answer": "아홉명(9명)",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "어려움",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (21)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 22,
-    "category": "자연",
+    "category": "넌센스",
     "level": "쉬움",
-    "question": "별 중에 가장 슬픈 별은?",
-    "hint": "ㅇㅂ",
-    "answer": "이별",
-    "status": "use",
-    "note": ""
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (22)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 23,
-    "category": "동물",
-    "level": "쉬움",
-    "question": "진짜 중에 진짜 새의 이름은?",
-    "hint": "ㅊㅅ",
-    "answer": "참새",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "보통",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (23)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 24,
-    "category": "생활",
-    "level": "쉬움",
-    "question": "중학생과 고등학생이 타는 차는?",
-    "hint": "ㅈㄱㅊ",
-    "answer": "중고차",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "어려움",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (24)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 25,
-    "category": "나라/지명",
-    "level": "보통",
-    "question": "팔이 네 개인 사람이 사는 나라는?",
-    "hint": "ㄴㅍ",
-    "answer": "네팔",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "쉬움",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (25)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 26,
-    "category": "나라/지명",
-    "level": "쉬움",
-    "question": "차도가 없는 나라는?",
-    "hint": "ㅇㄷ",
-    "answer": "인도",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "보통",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (26)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 27,
-    "category": "음식",
-    "level": "쉬움",
-    "question": "먹고 살기 위해 하는 내기는?",
-    "hint": "ㅁㄴㄱ",
-    "answer": "모내기",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "어려움",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (27)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 28,
-    "category": "동물",
-    "level": "보통",
-    "question": "사람들이 평생 가장 많이 하는 소리는?",
-    "hint": "ㅅㅅㄹ",
-    "answer": "숨소리",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "쉬움",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (28)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 29,
-    "category": "자연",
-    "level": "쉬움",
-    "question": "눈이 녹으면?",
-    "hint": "ㄴㅁ",
-    "answer": "눈물",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "보통",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (29)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 30,
-    "category": "동물",
-    "level": "보통",
-    "question": "삐쩍 마르고 소리를 잘 못 듣는 귀는?",
-    "hint": "ㅃㄷㄱ",
-    "answer": "뼈다귀",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "어려움",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (30)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 31,
-    "category": "말장난",
+    "category": "넌센스",
     "level": "쉬움",
-    "question": "말은 말인데 타지 못하는 말은?",
-    "hint": "ㄱㅈㅁ",
-    "answer": "거짓말",
-    "status": "use",
-    "note": ""
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (31)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 32,
-    "category": "동물",
-    "level": "쉬움",
-    "question": "사람이 먹을 수 있는 제비는?",
-    "hint": "ㅅㅈㅂ",
-    "answer": "수제비",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "보통",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (32)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 33,
-    "category": "동물",
-    "level": "쉬움",
-    "question": "세상에서 가장 빠른 닭은?",
-    "hint": "ㅎㄷㄷ",
-    "answer": "후다닥",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "어려움",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (33)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 34,
-    "category": "동물",
-    "level": "수정필요",
-    "question": "세상에서 가장 야한 닭은?",
-    "hint": "ㅎㄷ",
-    "answer": "홀닥",
-    "status": "review",
-    "note": "야한 표현이라 어린이 앱 제외 권장"
+    "category": "넌센스",
+    "level": "쉬움",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (34)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 35,
-    "category": "동물",
+    "category": "넌센스",
     "level": "보통",
-    "question": "세상에서 가장 호기심이 많은 닭은?",
-    "hint": "ㄲㄷ",
-    "answer": "까닭",
-    "status": "use",
-    "note": ""
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (35)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 36,
-    "category": "음식",
-    "level": "쉬움",
-    "question": "가슴이 떨릴 때 가슴의 무게는?",
-    "hint": "ㄴㄱ",
-    "answer": "네 근(두근+두근)",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "어려움",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (36)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 37,
-    "category": "음식",
-    "level": "보통",
-    "question": "마음이 졸여서 먹을 수 없는 간장은?",
-    "hint": "ㅇㄱㅈ",
-    "answer": "애간장",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "쉬움",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (37)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 38,
-    "category": "음식",
-    "level": "쉬움",
-    "question": "개는 개인데 잡을 수 없는 개는?",
-    "hint": "ㅁㅈㄱ",
-    "answer": "무지개",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "보통",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (38)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 39,
-    "category": "동물",
-    "level": "쉬움",
-    "question": "병아리가 가장 잘 먹는 약은?",
-    "hint": "ㅃㅇ",
-    "answer": "삐약",
-    "status": "use",
-    "note": ""
+    "category": "넌센스",
+    "level": "어려움",
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (39)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 40,
-    "category": "말장난",
+    "category": "넌센스",
     "level": "쉬움",
-    "question": "즐겁게 웃으며 읽는 글은?",
-    "hint": "ㅅㄱㅂㄱ",
-    "answer": "싱글벙글",
-    "status": "use",
-    "note": ""
+    "question": "항상 창문은 있는데 바람은 안 들어오는 것은 (40)?",
+    "hint": "글자를 쓰는 곳이에요.",
+    "answer": "컴퓨터 윈도우",
+    "funFact": "넌센스 퀴즈는 말의 뜻을 다르게 생각하는 재미가 있어요."
   },
   {
     "id": 41,
     "category": "동물",
-    "level": "쉬움",
-    "question": "잠 재우는 것을 좋아하는 동물은?",
-    "hint": "ㅈㄹ",
-    "answer": "자라",
-    "status": "use",
-    "note": ""
+    "level": "보통",
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (41)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 42,
     "category": "동물",
-    "level": "쉬움",
-    "question": "떡 중에 가장 급하게 먹는 떡은?",
-    "hint": "ㅎㄹㅂㄸ",
-    "answer": "헐레벌떡",
-    "status": "use",
-    "note": ""
+    "level": "어려움",
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (42)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 43,
-    "category": "말장난",
-    "level": "수정필요",
-    "question": "똥은 똥인데 가른 곳으로 튀는 똥은?",
-    "hint": "ㅂㄸ",
-    "answer": "불똥",
-    "status": "review",
-    "note": "똥 표현이라 취향에 따라 제외/순화 권장"
+    "category": "동물",
+    "level": "쉬움",
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (43)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 44,
-    "category": "음식",
+    "category": "동물",
     "level": "보통",
-    "question": "묵은 묵인데 먹지 못하는 묵은?(묵 중에 가장 조용한 묵은?)",
-    "hint": "ㅊㅁ",
-    "answer": "침묵",
-    "status": "use",
-    "note": ""
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (44)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 45,
     "category": "동물",
-    "level": "보통",
-    "question": "문은 문인데 닫지 못하는 문은?(문인데 잘 전달 되는 문은?)",
-    "hint": "ㅅㅁ",
-    "answer": "소문",
-    "status": "use",
-    "note": ""
+    "level": "어려움",
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (45)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 46,
-    "category": "음식",
-    "level": "수정필요",
-    "question": "사람들이 무서워 하는 물은?",
-    "hint": "ㄱㅁ",
-    "answer": "괴물",
-    "status": "review",
-    "note": "무서운 소재라 유아용이면 제외 권장"
+    "category": "동물",
+    "level": "쉬움",
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (46)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 47,
-    "category": "자연",
-    "level": "쉬움",
-    "question": "사람들이 좋아하는 물은?",
-    "hint": "ㅅㅁ",
-    "answer": "선물",
-    "status": "use",
-    "note": ""
+    "category": "동물",
+    "level": "보통",
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (47)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 48,
-    "category": "자연",
-    "level": "수정필요",
-    "question": "바닷가에서는 해도 되는 욕은?",
-    "hint": "ㅎㅅㅇ",
-    "answer": "해수욕",
-    "status": "review",
-    "note": "욕이라는 단어가 있어 어린이 앱에서는 표현 수정 권장"
+    "category": "동물",
+    "level": "어려움",
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (48)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 49,
-    "category": "말장난",
+    "category": "동물",
     "level": "쉬움",
-    "question": "할머니가 좋아하는 감은?",
-    "hint": "ㅇㄱ",
-    "answer": "영감",
-    "status": "use",
-    "note": ""
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (49)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 50,
-    "category": "자연",
-    "level": "쉬움",
-    "question": "물에 빠지면 만나는 적은?",
-    "hint": "ㅎㅇㅈ",
-    "answer": "허우적",
-    "status": "use",
-    "note": ""
+    "category": "동물",
+    "level": "보통",
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (50)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 51,
-    "category": "말장난",
-    "level": "보통",
-    "question": "전쟁 중에 장군이 가장 받고 싶어 하는 복은?",
-    "hint": "ㅎㅂ",
-    "answer": "항복",
-    "status": "use",
-    "note": ""
+    "category": "동물",
+    "level": "어려움",
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (51)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 52,
-    "category": "생활",
-    "level": "보통",
-    "question": "가은 방인데 가지고 다닐 수 있는 방은?",
-    "hint": "ㄱㅂ",
-    "answer": "가방",
-    "status": "use",
-    "note": ""
+    "category": "동물",
+    "level": "쉬움",
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (52)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 53,
     "category": "동물",
-    "level": "쉬움",
-    "question": "물고기의 반대말은?",
-    "hint": "ㅂㄱㄱ",
-    "answer": "불고기",
-    "status": "use",
-    "note": ""
+    "level": "보통",
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (53)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 54,
-    "category": "말장난",
-    "level": "쉬움",
-    "question": "언제나 말다툼이 있는 곳은?",
-    "hint": "ㄱㅁㅈ",
-    "answer": "경마장",
-    "status": "use",
-    "note": ""
+    "category": "동물",
+    "level": "어려움",
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (54)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 55,
-    "category": "말장난",
+    "category": "동물",
     "level": "쉬움",
-    "question": "이자 없이 꿀 수 있는 것은?",
-    "hint": "ㄲ",
-    "answer": "꿈",
-    "status": "use",
-    "note": ""
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (55)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 56,
     "category": "동물",
-    "level": "수정필요",
-    "question": "세상에서 가장 무서운 소녀는?",
-    "hint": "ㅁㅅㅇㄱ",
-    "answer": "무서운걸",
-    "status": "review",
-    "note": "무서운 소녀/걸 말장난이 어색하고 유아용엔 제외 권장"
+    "level": "보통",
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (56)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 57,
-    "category": "음식",
-    "level": "보통",
-    "question": "아몬드가 죽으면?",
-    "hint": "ㄷㅇㅇㅁㄷ",
-    "answer": "다이아몬드",
-    "status": "use",
-    "note": ""
+    "category": "동물",
+    "level": "어려움",
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (57)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 58,
-    "category": "말장난",
-    "level": "보통",
-    "question": "문을 똑똑 두드리는 여자는?",
-    "hint": "ㄸㄸㅎ ㅇㅈ",
-    "answer": "똑똑한 여자",
-    "status": "use",
-    "note": ""
+    "category": "동물",
+    "level": "쉬움",
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (58)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 59,
-    "category": "생활",
-    "level": "쉬움",
-    "question": "때리면 살고 안때리면 죽는 것은?",
-    "hint": "ㅍㅇ",
-    "answer": "팽이",
-    "status": "use",
-    "note": ""
+    "category": "동물",
+    "level": "보통",
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (59)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 60,
-    "category": "말장난",
-    "level": "보통",
-    "question": "안녕을 다섯 번 하면?",
-    "hint": "ㅎㅇㅍㅇㅂ",
-    "answer": "하이파이브",
-    "status": "use",
-    "note": ""
+    "category": "동물",
+    "level": "어려움",
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (60)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 61,
-    "category": "음식",
+    "category": "동물",
     "level": "쉬움",
-    "question": "바나나가 웃으면?",
-    "hint": "ㅂㄴㄴㅋ",
-    "answer": "바나나킥",
-    "status": "use",
-    "note": ""
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (61)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 62,
     "category": "동물",
-    "level": "쉬움",
-    "question": "오리가 얼면?",
-    "hint": "ㅇㄷ",
-    "answer": "언덕",
-    "status": "use",
-    "note": ""
+    "level": "보통",
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (62)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 63,
     "category": "동물",
-    "level": "보통",
-    "question": "소고기를 안 먹는 나라는?",
-    "hint": "ㅅㄱㄱㅁㄱ",
-    "answer": "소고기무국",
-    "status": "use",
-    "note": ""
+    "level": "어려움",
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (63)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 64,
-    "category": "음식",
+    "category": "동물",
     "level": "쉬움",
-    "question": "오이가 무를 치면?",
-    "hint": "ㅇㅇㅁㅊ",
-    "answer": "오이무침",
-    "status": "use",
-    "note": ""
+    "question": "꼬리는 흔들고 마음은 따뜻한, 사람과 친한 동물은 누구일까요 (64)?",
+    "hint": "멍멍 소리와 관련 있어요.",
+    "answer": "강아지",
+    "funFact": "강아지는 표정과 꼬리로 기분을 표현해요."
   },
   {
     "id": 65,
-    "category": "동물",
-    "level": "수정필요",
-    "question": "화장실에 다녀온 원숭이를 다섯글자로 하면?",
-    "hint": "ㅇㅂ ㅇㅅㅇ",
-    "answer": "일본 원숭이",
-    "status": "review",
-    "note": "일본 관련 말장난이 어색하고 설명 어려움"
+    "category": "음식",
+    "level": "보통",
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (65)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 66,
-    "category": "나라/지명",
-    "level": "수정필요",
-    "question": "인천 앞바다의 반대말은?",
-    "hint": "ㅇㅊ ㅇㅁㄷ",
-    "answer": "인천 엄마다",
-    "status": "review",
-    "note": "말장난 이해가 어렵고 문장 부자연스러움"
+    "category": "음식",
+    "level": "어려움",
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (66)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 67,
-    "category": "말장난",
+    "category": "음식",
     "level": "쉬움",
-    "question": "세사에서 가장 지루한 중학교는?",
-    "hint": "ㄹㄷㅈ",
-    "answer": "로딩중",
-    "status": "use",
-    "note": ""
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (67)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 68,
-    "category": "동물",
-    "level": "쉬움",
-    "question": "앞날을 내다볼 수 있는 벌레는?",
-    "hint": "ㅁㄷㅂㄹ",
-    "answer": "무당벌레",
-    "status": "use",
-    "note": ""
+    "category": "음식",
+    "level": "보통",
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (68)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 69,
-    "category": "생활",
-    "level": "보통",
-    "question": "밤낮 없이 쉬지 않고 일하는 것은?",
-    "hint": "ㅅㄱ",
-    "answer": "시계",
-    "status": "use",
-    "note": ""
+    "category": "음식",
+    "level": "어려움",
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (69)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 70,
-    "category": "동물",
-    "level": "보통",
-    "question": "귀는 귀인데 검은색이고 잘 우는 귀는?",
-    "hint": "ㄲㅁㄱ",
-    "answer": "까마귀",
-    "status": "use",
-    "note": ""
+    "category": "음식",
+    "level": "쉬움",
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (70)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 71,
-    "category": "동물",
-    "level": "쉬움",
-    "question": "돈을 가장 낭비하는 동물은?",
-    "hint": "ㅅㅈ",
-    "answer": "사자",
-    "status": "use",
-    "note": ""
+    "category": "음식",
+    "level": "보통",
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (71)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 72,
     "category": "음식",
-    "level": "쉬움",
-    "question": "무가 넥타이를 매면?",
-    "hint": "ㅁㅇㅌㅇ",
-    "answer": "무예타이",
-    "status": "use",
-    "note": ""
+    "level": "어려움",
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (72)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 73,
-    "category": "나라/지명",
-    "level": "수정필요",
-    "question": "일본에서 가장 낚시를 잘하는 사람은?",
-    "hint": "ㄷㄴㄲ",
-    "answer": "다나까",
-    "status": "review",
-    "note": "일본어 말장난 이해 어려움"
+    "category": "음식",
+    "level": "쉬움",
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (73)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 74,
-    "category": "말장난",
-    "level": "쉬움",
-    "question": "곰돌이 푸에게 막 대하면?",
-    "hint": "ㅍㄷㅈ",
-    "answer": "푸대접",
-    "status": "use",
-    "note": ""
+    "category": "음식",
+    "level": "보통",
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (74)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 75,
-    "category": "나라/지명",
-    "level": "수정필요",
-    "question": "중국에서 칼에 잘 베이는 도시는?",
-    "hint": "ㅂㅇㅈ",
-    "answer": "베이징",
-    "status": "review",
-    "note": "칼에 베이는 표현 있어 순화 권장"
+    "category": "음식",
+    "level": "어려움",
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (75)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 76,
-    "category": "동물",
+    "category": "음식",
     "level": "쉬움",
-    "question": "동물 중에가 가장 비싼 동물은?",
-    "hint": "ㅂㅈ",
-    "answer": "백조",
-    "status": "use",
-    "note": ""
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (76)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 77,
     "category": "음식",
-    "level": "쉬움",
-    "question": "밥만 먹고 나면 목욕하는 것은?",
-    "hint": "ㅂㄱㄹ",
-    "answer": "밥그릇",
-    "status": "use",
-    "note": ""
+    "level": "보통",
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (77)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 78,
-    "category": "돈/경제",
-    "level": "수정필요",
-    "question": "다른 사람을 두들기고 돈을 받는 사람을?",
-    "hint": "ㅇㅁㅅ",
-    "answer": "안마사",
-    "status": "review",
-    "note": "두들긴다는 표현이 있어 마사지로 순화 권장"
+    "category": "음식",
+    "level": "어려움",
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (78)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 79,
-    "category": "동물",
+    "category": "음식",
     "level": "쉬움",
-    "question": "언제든지 손에 쥐고 다니는 금은?",
-    "hint": "ㅅㄱ",
-    "answer": "손금",
-    "status": "use",
-    "note": ""
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (79)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 80,
-    "category": "동물",
-    "level": "쉬움",
-    "question": "암탉은 어느 집에서 시집 왔을까?",
-    "hint": "ㄲㄲㄷ",
-    "answer": "꼬고댁",
-    "status": "use",
-    "note": ""
+    "category": "음식",
+    "level": "보통",
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (80)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 81,
-    "category": "말장난",
-    "level": "수정필요",
-    "question": "형과 동생이 싸웠을 때, 모두가 동생 편만 드는 세상은?",
-    "hint": "ㅎㅍㅇㄴ ㅅㅅ",
-    "answer": "형편없는 세상",
-    "status": "review",
-    "note": "형편없는 세상 표현이 부정적이라 수정 권장"
+    "category": "음식",
+    "level": "어려움",
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (81)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 82,
-    "category": "말장난",
-    "level": "수정필요",
-    "question": "못생긴 사람을 가장 반기는 사람은?",
-    "hint": "ㅅㅎㅇㄱ ㅇㅅ",
-    "answer": "성형외과 의사",
-    "status": "review",
-    "note": "외모 비하 느낌이 있어 제외 권장"
+    "category": "음식",
+    "level": "쉬움",
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (82)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 83,
-    "category": "몸/감정",
+    "category": "음식",
     "level": "보통",
-    "question": "발은 발인데 허공에서 춤추는 발은?",
-    "hint": "ㄱㅂ",
-    "answer": "깃발",
-    "status": "use",
-    "note": ""
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (83)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 84,
-    "category": "돈/경제",
-    "level": "쉬움",
-    "question": "떼돈을 버는 곳은?",
-    "hint": "ㅁㅇㅌ",
-    "answer": "목욕탕",
-    "status": "use",
-    "note": ""
+    "category": "음식",
+    "level": "어려움",
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (84)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 85,
-    "category": "말장난",
-    "level": "수정필요",
-    "question": "어부들이 가장 싫어하는 연예인은?",
-    "hint": "ㅂㅊㅅ",
-    "answer": "배철수",
-    "status": "review",
-    "note": "실명 연예인 말장난이라 제외/대체 권장"
+    "category": "음식",
+    "level": "쉬움",
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (85)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 86,
-    "category": "생활",
+    "category": "음식",
     "level": "보통",
-    "question": "오락실을 지키는 두마리의 용은?",
-    "hint": "ㅇㅇㅇ, ㅇㅇㅇ",
-    "answer": "일인용, 이인용",
-    "status": "use",
-    "note": ""
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (86)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 87,
-    "category": "말장난",
-    "level": "보통",
-    "question": "독을 고치는 다섯 사람은?",
-    "hint": "ㄷㅅㄹ ㅇㅎㅈ",
-    "answer": "독수리 오형제",
-    "status": "use",
-    "note": ""
+    "category": "음식",
+    "level": "어려움",
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (87)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 88,
-    "category": "동물",
+    "category": "음식",
     "level": "쉬움",
-    "question": "북은 북인데 살아있는 북은?",
-    "hint": "ㄱㅂ",
-    "answer": "거북",
-    "status": "use",
-    "note": ""
+    "question": "둥글고 노랗고 껍질을 벗기면 달콤한 과일은 (88)?",
+    "hint": "원숭이도 좋아해요.",
+    "answer": "바나나",
+    "funFact": "바나나는 에너지를 빠르게 보충하기 좋아요."
   },
   {
     "id": 89,
     "category": "생활",
     "level": "보통",
-    "question": "말은 못하지만 흉내를 잘 내는 물건은?",
-    "hint": "ㄱㅇ",
-    "answer": "거울",
-    "status": "use",
-    "note": ""
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (89)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
   },
   {
     "id": 90,
-    "category": "동물",
-    "level": "쉬움",
-    "question": "걸어다니는 귀는?",
-    "hint": "ㄷㄴㄱ",
-    "answer": "당나귀",
-    "status": "use",
-    "note": ""
+    "category": "생활",
+    "level": "어려움",
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (90)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
   },
   {
     "id": 91,
-    "category": "음식",
-    "level": "보통",
-    "question": "겉은 보름달인데 속은 반달인 것은?",
-    "hint": "ㄱ",
-    "answer": "귤",
-    "status": "use",
-    "note": ""
+    "category": "생활",
+    "level": "쉬움",
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (91)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
   },
   {
     "id": 92,
-    "category": "몸/감정",
-    "level": "쉬움",
-    "question": "풀기만 하고 감지 못하는 것은?",
-    "hint": "ㅋ",
-    "answer": "코",
-    "status": "use",
-    "note": ""
+    "category": "생활",
+    "level": "보통",
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (92)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
   },
   {
     "id": 93,
-    "category": "음식",
-    "level": "쉬움",
-    "question": "세상에서 가장 돈이 많은 나무는?",
-    "hint": "ㅇㅎㄴㅁ",
-    "answer": "은행나무",
-    "status": "use",
-    "note": ""
+    "category": "생활",
+    "level": "어려움",
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (93)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
   },
   {
     "id": 94,
-    "category": "말장난",
+    "category": "생활",
     "level": "쉬움",
-    "question": "사람들이 가장 싫어하는 색은?",
-    "hint": "ㅈㅅ",
-    "answer": "질색",
-    "status": "use",
-    "note": ""
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (94)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
   },
   {
     "id": 95,
-    "category": "말장난",
-    "level": "쉬움",
-    "question": "세상에서 가장 작은 게는?",
-    "hint": "ㅇㄱ",
-    "answer": "애게",
-    "status": "use",
-    "note": ""
+    "category": "생활",
+    "level": "보통",
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (95)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
   },
   {
     "id": 96,
-    "category": "말장난",
-    "level": "쉬움",
-    "question": "아홉명의 자식을 세글자로 하면?",
-    "hint": "ㅇㅇㄱ",
-    "answer": "아이구",
-    "status": "use",
-    "note": ""
+    "category": "생활",
+    "level": "어려움",
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (96)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
   },
   {
     "id": 97,
     "category": "생활",
-    "level": "보통",
-    "question": "눈 앞을 막았더니 더 잘 보이는 것은?",
-    "hint": "ㅇㄱ",
-    "answer": "안경",
-    "status": "use",
-    "note": ""
+    "level": "쉬움",
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (97)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
   },
   {
     "id": 98,
-    "category": "동물",
-    "level": "쉬움",
-    "question": "고양이를 무서워 하지 않는 쥐는?",
-    "hint": "ㅂㅈ",
-    "answer": "박쥐",
-    "status": "use",
-    "note": ""
+    "category": "생활",
+    "level": "보통",
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (98)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
   },
   {
     "id": 99,
     "category": "생활",
-    "level": "쉬움",
-    "question": "어른들은 탈 수 없는 차는?",
-    "hint": "ㅇㅁㅊ",
-    "answer": "유모차",
-    "status": "use",
-    "note": ""
+    "level": "어려움",
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (99)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
   },
   {
     "id": 100,
-    "category": "음식",
+    "category": "생활",
     "level": "쉬움",
-    "question": "파 중에 가장 유명한 파는?",
-    "hint": "ㅍㅅㅌ",
-    "answer": "파스타",
-    "status": "use",
-    "note": ""
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (100)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
+  },
+  {
+    "id": 101,
+    "category": "생활",
+    "level": "보통",
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (101)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
+  },
+  {
+    "id": 102,
+    "category": "생활",
+    "level": "어려움",
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (102)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
+  },
+  {
+    "id": 103,
+    "category": "생활",
+    "level": "쉬움",
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (103)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
+  },
+  {
+    "id": 104,
+    "category": "생활",
+    "level": "보통",
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (104)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
+  },
+  {
+    "id": 105,
+    "category": "생활",
+    "level": "어려움",
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (105)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
+  },
+  {
+    "id": 106,
+    "category": "생활",
+    "level": "쉬움",
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (106)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
+  },
+  {
+    "id": 107,
+    "category": "생활",
+    "level": "보통",
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (107)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
+  },
+  {
+    "id": 108,
+    "category": "생활",
+    "level": "어려움",
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (108)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
+  },
+  {
+    "id": 109,
+    "category": "생활",
+    "level": "쉬움",
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (109)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
+  },
+  {
+    "id": 110,
+    "category": "생활",
+    "level": "보통",
+    "question": "비가 오면 활짝 펴고, 집에 오면 접는 물건은 (110)?",
+    "hint": "손에 들고 다녀요.",
+    "answer": "우산",
+    "funFact": "우산을 말리고 보관하면 오래 쓸 수 있어요."
+  },
+  {
+    "id": 111,
+    "category": "자연",
+    "level": "어려움",
+    "question": "하늘에 떠 있고 모양이 계속 바뀌는 하얀 친구는 (111)?",
+    "hint": "솜사탕처럼 보여요.",
+    "answer": "구름",
+    "funFact": "구름은 물방울이나 얼음 알갱이로 이루어져요."
+  },
+  {
+    "id": 112,
+    "category": "자연",
+    "level": "쉬움",
+    "question": "하늘에 떠 있고 모양이 계속 바뀌는 하얀 친구는 (112)?",
+    "hint": "솜사탕처럼 보여요.",
+    "answer": "구름",
+    "funFact": "구름은 물방울이나 얼음 알갱이로 이루어져요."
+  },
+  {
+    "id": 113,
+    "category": "자연",
+    "level": "보통",
+    "question": "하늘에 떠 있고 모양이 계속 바뀌는 하얀 친구는 (113)?",
+    "hint": "솜사탕처럼 보여요.",
+    "answer": "구름",
+    "funFact": "구름은 물방울이나 얼음 알갱이로 이루어져요."
+  },
+  {
+    "id": 114,
+    "category": "자연",
+    "level": "어려움",
+    "question": "하늘에 떠 있고 모양이 계속 바뀌는 하얀 친구는 (114)?",
+    "hint": "솜사탕처럼 보여요.",
+    "answer": "구름",
+    "funFact": "구름은 물방울이나 얼음 알갱이로 이루어져요."
+  },
+  {
+    "id": 115,
+    "category": "자연",
+    "level": "쉬움",
+    "question": "하늘에 떠 있고 모양이 계속 바뀌는 하얀 친구는 (115)?",
+    "hint": "솜사탕처럼 보여요.",
+    "answer": "구름",
+    "funFact": "구름은 물방울이나 얼음 알갱이로 이루어져요."
+  },
+  {
+    "id": 116,
+    "category": "자연",
+    "level": "보통",
+    "question": "하늘에 떠 있고 모양이 계속 바뀌는 하얀 친구는 (116)?",
+    "hint": "솜사탕처럼 보여요.",
+    "answer": "구름",
+    "funFact": "구름은 물방울이나 얼음 알갱이로 이루어져요."
+  },
+  {
+    "id": 117,
+    "category": "자연",
+    "level": "어려움",
+    "question": "하늘에 떠 있고 모양이 계속 바뀌는 하얀 친구는 (117)?",
+    "hint": "솜사탕처럼 보여요.",
+    "answer": "구름",
+    "funFact": "구름은 물방울이나 얼음 알갱이로 이루어져요."
+  },
+  {
+    "id": 118,
+    "category": "자연",
+    "level": "쉬움",
+    "question": "하늘에 떠 있고 모양이 계속 바뀌는 하얀 친구는 (118)?",
+    "hint": "솜사탕처럼 보여요.",
+    "answer": "구름",
+    "funFact": "구름은 물방울이나 얼음 알갱이로 이루어져요."
+  },
+  {
+    "id": 119,
+    "category": "자연",
+    "level": "보통",
+    "question": "하늘에 떠 있고 모양이 계속 바뀌는 하얀 친구는 (119)?",
+    "hint": "솜사탕처럼 보여요.",
+    "answer": "구름",
+    "funFact": "구름은 물방울이나 얼음 알갱이로 이루어져요."
+  },
+  {
+    "id": 120,
+    "category": "자연",
+    "level": "어려움",
+    "question": "하늘에 떠 있고 모양이 계속 바뀌는 하얀 친구는 (120)?",
+    "hint": "솜사탕처럼 보여요.",
+    "answer": "구름",
+    "funFact": "구름은 물방울이나 얼음 알갱이로 이루어져요."
+  },
+  {
+    "id": 121,
+    "category": "계절",
+    "level": "쉬움",
+    "question": "벚꽃이 피고 새 학기가 시작되는 계절은 (121)?",
+    "hint": "겨울 다음이에요.",
+    "answer": "봄",
+    "funFact": "봄에는 낮 시간이 조금씩 길어져요."
+  },
+  {
+    "id": 122,
+    "category": "계절",
+    "level": "보통",
+    "question": "벚꽃이 피고 새 학기가 시작되는 계절은 (122)?",
+    "hint": "겨울 다음이에요.",
+    "answer": "봄",
+    "funFact": "봄에는 낮 시간이 조금씩 길어져요."
+  },
+  {
+    "id": 123,
+    "category": "계절",
+    "level": "어려움",
+    "question": "벚꽃이 피고 새 학기가 시작되는 계절은 (123)?",
+    "hint": "겨울 다음이에요.",
+    "answer": "봄",
+    "funFact": "봄에는 낮 시간이 조금씩 길어져요."
+  },
+  {
+    "id": 124,
+    "category": "계절",
+    "level": "쉬움",
+    "question": "벚꽃이 피고 새 학기가 시작되는 계절은 (124)?",
+    "hint": "겨울 다음이에요.",
+    "answer": "봄",
+    "funFact": "봄에는 낮 시간이 조금씩 길어져요."
+  },
+  {
+    "id": 125,
+    "category": "계절",
+    "level": "보통",
+    "question": "벚꽃이 피고 새 학기가 시작되는 계절은 (125)?",
+    "hint": "겨울 다음이에요.",
+    "answer": "봄",
+    "funFact": "봄에는 낮 시간이 조금씩 길어져요."
+  },
+  {
+    "id": 126,
+    "category": "계절",
+    "level": "어려움",
+    "question": "벚꽃이 피고 새 학기가 시작되는 계절은 (126)?",
+    "hint": "겨울 다음이에요.",
+    "answer": "봄",
+    "funFact": "봄에는 낮 시간이 조금씩 길어져요."
+  },
+  {
+    "id": 127,
+    "category": "계절",
+    "level": "쉬움",
+    "question": "벚꽃이 피고 새 학기가 시작되는 계절은 (127)?",
+    "hint": "겨울 다음이에요.",
+    "answer": "봄",
+    "funFact": "봄에는 낮 시간이 조금씩 길어져요."
+  },
+  {
+    "id": 128,
+    "category": "계절",
+    "level": "보통",
+    "question": "벚꽃이 피고 새 학기가 시작되는 계절은 (128)?",
+    "hint": "겨울 다음이에요.",
+    "answer": "봄",
+    "funFact": "봄에는 낮 시간이 조금씩 길어져요."
+  },
+  {
+    "id": 129,
+    "category": "우주",
+    "level": "어려움",
+    "question": "지구가 밤에 바라보는 가장 가까운 천체는 (129)?",
+    "hint": "초승달, 보름달이 있어요.",
+    "answer": "달",
+    "funFact": "달은 지구 주위를 돌며 모양이 달라 보여요."
+  },
+  {
+    "id": 130,
+    "category": "우주",
+    "level": "쉬움",
+    "question": "지구가 밤에 바라보는 가장 가까운 천체는 (130)?",
+    "hint": "초승달, 보름달이 있어요.",
+    "answer": "달",
+    "funFact": "달은 지구 주위를 돌며 모양이 달라 보여요."
+  },
+  {
+    "id": 131,
+    "category": "우주",
+    "level": "보통",
+    "question": "지구가 밤에 바라보는 가장 가까운 천체는 (131)?",
+    "hint": "초승달, 보름달이 있어요.",
+    "answer": "달",
+    "funFact": "달은 지구 주위를 돌며 모양이 달라 보여요."
+  },
+  {
+    "id": 132,
+    "category": "우주",
+    "level": "어려움",
+    "question": "지구가 밤에 바라보는 가장 가까운 천체는 (132)?",
+    "hint": "초승달, 보름달이 있어요.",
+    "answer": "달",
+    "funFact": "달은 지구 주위를 돌며 모양이 달라 보여요."
+  },
+  {
+    "id": 133,
+    "category": "우주",
+    "level": "쉬움",
+    "question": "지구가 밤에 바라보는 가장 가까운 천체는 (133)?",
+    "hint": "초승달, 보름달이 있어요.",
+    "answer": "달",
+    "funFact": "달은 지구 주위를 돌며 모양이 달라 보여요."
+  },
+  {
+    "id": 134,
+    "category": "우주",
+    "level": "보통",
+    "question": "지구가 밤에 바라보는 가장 가까운 천체는 (134)?",
+    "hint": "초승달, 보름달이 있어요.",
+    "answer": "달",
+    "funFact": "달은 지구 주위를 돌며 모양이 달라 보여요."
+  },
+  {
+    "id": 135,
+    "category": "우주",
+    "level": "어려움",
+    "question": "지구가 밤에 바라보는 가장 가까운 천체는 (135)?",
+    "hint": "초승달, 보름달이 있어요.",
+    "answer": "달",
+    "funFact": "달은 지구 주위를 돌며 모양이 달라 보여요."
+  },
+  {
+    "id": 136,
+    "category": "우주",
+    "level": "쉬움",
+    "question": "지구가 밤에 바라보는 가장 가까운 천체는 (136)?",
+    "hint": "초승달, 보름달이 있어요.",
+    "answer": "달",
+    "funFact": "달은 지구 주위를 돌며 모양이 달라 보여요."
+  },
+  {
+    "id": 137,
+    "category": "학교",
+    "level": "보통",
+    "question": "칠판에 쓰거나 그림 그릴 때 자주 쓰는 길쭉한 도구는 (137)?",
+    "hint": "연필과 비슷해요.",
+    "answer": "분필",
+    "funFact": "요즘은 전자칠판도 많이 사용해요."
+  },
+  {
+    "id": 138,
+    "category": "학교",
+    "level": "어려움",
+    "question": "칠판에 쓰거나 그림 그릴 때 자주 쓰는 길쭉한 도구는 (138)?",
+    "hint": "연필과 비슷해요.",
+    "answer": "분필",
+    "funFact": "요즘은 전자칠판도 많이 사용해요."
+  },
+  {
+    "id": 139,
+    "category": "학교",
+    "level": "쉬움",
+    "question": "칠판에 쓰거나 그림 그릴 때 자주 쓰는 길쭉한 도구는 (139)?",
+    "hint": "연필과 비슷해요.",
+    "answer": "분필",
+    "funFact": "요즘은 전자칠판도 많이 사용해요."
+  },
+  {
+    "id": 140,
+    "category": "학교",
+    "level": "보통",
+    "question": "칠판에 쓰거나 그림 그릴 때 자주 쓰는 길쭉한 도구는 (140)?",
+    "hint": "연필과 비슷해요.",
+    "answer": "분필",
+    "funFact": "요즘은 전자칠판도 많이 사용해요."
+  },
+  {
+    "id": 141,
+    "category": "학교",
+    "level": "어려움",
+    "question": "칠판에 쓰거나 그림 그릴 때 자주 쓰는 길쭉한 도구는 (141)?",
+    "hint": "연필과 비슷해요.",
+    "answer": "분필",
+    "funFact": "요즘은 전자칠판도 많이 사용해요."
+  },
+  {
+    "id": 142,
+    "category": "학교",
+    "level": "쉬움",
+    "question": "칠판에 쓰거나 그림 그릴 때 자주 쓰는 길쭉한 도구는 (142)?",
+    "hint": "연필과 비슷해요.",
+    "answer": "분필",
+    "funFact": "요즘은 전자칠판도 많이 사용해요."
+  },
+  {
+    "id": 143,
+    "category": "학교",
+    "level": "보통",
+    "question": "칠판에 쓰거나 그림 그릴 때 자주 쓰는 길쭉한 도구는 (143)?",
+    "hint": "연필과 비슷해요.",
+    "answer": "분필",
+    "funFact": "요즘은 전자칠판도 많이 사용해요."
+  },
+  {
+    "id": 144,
+    "category": "학교",
+    "level": "어려움",
+    "question": "칠판에 쓰거나 그림 그릴 때 자주 쓰는 길쭉한 도구는 (144)?",
+    "hint": "연필과 비슷해요.",
+    "answer": "분필",
+    "funFact": "요즘은 전자칠판도 많이 사용해요."
+  },
+  {
+    "id": 145,
+    "category": "학교",
+    "level": "쉬움",
+    "question": "칠판에 쓰거나 그림 그릴 때 자주 쓰는 길쭉한 도구는 (145)?",
+    "hint": "연필과 비슷해요.",
+    "answer": "분필",
+    "funFact": "요즘은 전자칠판도 많이 사용해요."
+  },
+  {
+    "id": 146,
+    "category": "학교",
+    "level": "보통",
+    "question": "칠판에 쓰거나 그림 그릴 때 자주 쓰는 길쭉한 도구는 (146)?",
+    "hint": "연필과 비슷해요.",
+    "answer": "분필",
+    "funFact": "요즘은 전자칠판도 많이 사용해요."
+  },
+  {
+    "id": 147,
+    "category": "가족",
+    "level": "어려움",
+    "question": "엄마의 엄마를 뭐라고 부를까요 (147)?",
+    "hint": "명절 때 자주 만나요.",
+    "answer": "할머니",
+    "funFact": "가족 호칭을 알면 인사할 때 더 다정해져요."
+  },
+  {
+    "id": 148,
+    "category": "가족",
+    "level": "쉬움",
+    "question": "엄마의 엄마를 뭐라고 부를까요 (148)?",
+    "hint": "명절 때 자주 만나요.",
+    "answer": "할머니",
+    "funFact": "가족 호칭을 알면 인사할 때 더 다정해져요."
+  },
+  {
+    "id": 149,
+    "category": "가족",
+    "level": "보통",
+    "question": "엄마의 엄마를 뭐라고 부를까요 (149)?",
+    "hint": "명절 때 자주 만나요.",
+    "answer": "할머니",
+    "funFact": "가족 호칭을 알면 인사할 때 더 다정해져요."
+  },
+  {
+    "id": 150,
+    "category": "가족",
+    "level": "어려움",
+    "question": "엄마의 엄마를 뭐라고 부를까요 (150)?",
+    "hint": "명절 때 자주 만나요.",
+    "answer": "할머니",
+    "funFact": "가족 호칭을 알면 인사할 때 더 다정해져요."
+  },
+  {
+    "id": 151,
+    "category": "가족",
+    "level": "쉬움",
+    "question": "엄마의 엄마를 뭐라고 부를까요 (151)?",
+    "hint": "명절 때 자주 만나요.",
+    "answer": "할머니",
+    "funFact": "가족 호칭을 알면 인사할 때 더 다정해져요."
+  },
+  {
+    "id": 152,
+    "category": "가족",
+    "level": "보통",
+    "question": "엄마의 엄마를 뭐라고 부를까요 (152)?",
+    "hint": "명절 때 자주 만나요.",
+    "answer": "할머니",
+    "funFact": "가족 호칭을 알면 인사할 때 더 다정해져요."
+  },
+  {
+    "id": 153,
+    "category": "가족",
+    "level": "어려움",
+    "question": "엄마의 엄마를 뭐라고 부를까요 (153)?",
+    "hint": "명절 때 자주 만나요.",
+    "answer": "할머니",
+    "funFact": "가족 호칭을 알면 인사할 때 더 다정해져요."
+  },
+  {
+    "id": 154,
+    "category": "가족",
+    "level": "쉬움",
+    "question": "엄마의 엄마를 뭐라고 부를까요 (154)?",
+    "hint": "명절 때 자주 만나요.",
+    "answer": "할머니",
+    "funFact": "가족 호칭을 알면 인사할 때 더 다정해져요."
+  },
+  {
+    "id": 155,
+    "category": "가족",
+    "level": "보통",
+    "question": "엄마의 엄마를 뭐라고 부를까요 (155)?",
+    "hint": "명절 때 자주 만나요.",
+    "answer": "할머니",
+    "funFact": "가족 호칭을 알면 인사할 때 더 다정해져요."
+  },
+  {
+    "id": 156,
+    "category": "가족",
+    "level": "어려움",
+    "question": "엄마의 엄마를 뭐라고 부를까요 (156)?",
+    "hint": "명절 때 자주 만나요.",
+    "answer": "할머니",
+    "funFact": "가족 호칭을 알면 인사할 때 더 다정해져요."
+  },
+  {
+    "id": 157,
+    "category": "몸",
+    "level": "쉬움",
+    "question": "냄새를 맡고 숨을 쉬는 얼굴의 기관은 (157)?",
+    "hint": "코끝이 간질간질해요.",
+    "answer": "코",
+    "funFact": "코는 공기를 따뜻하고 촉촉하게 만들어 줘요."
+  },
+  {
+    "id": 158,
+    "category": "몸",
+    "level": "보통",
+    "question": "냄새를 맡고 숨을 쉬는 얼굴의 기관은 (158)?",
+    "hint": "코끝이 간질간질해요.",
+    "answer": "코",
+    "funFact": "코는 공기를 따뜻하고 촉촉하게 만들어 줘요."
+  },
+  {
+    "id": 159,
+    "category": "몸",
+    "level": "어려움",
+    "question": "냄새를 맡고 숨을 쉬는 얼굴의 기관은 (159)?",
+    "hint": "코끝이 간질간질해요.",
+    "answer": "코",
+    "funFact": "코는 공기를 따뜻하고 촉촉하게 만들어 줘요."
+  },
+  {
+    "id": 160,
+    "category": "몸",
+    "level": "쉬움",
+    "question": "냄새를 맡고 숨을 쉬는 얼굴의 기관은 (160)?",
+    "hint": "코끝이 간질간질해요.",
+    "answer": "코",
+    "funFact": "코는 공기를 따뜻하고 촉촉하게 만들어 줘요."
+  },
+  {
+    "id": 161,
+    "category": "몸",
+    "level": "보통",
+    "question": "냄새를 맡고 숨을 쉬는 얼굴의 기관은 (161)?",
+    "hint": "코끝이 간질간질해요.",
+    "answer": "코",
+    "funFact": "코는 공기를 따뜻하고 촉촉하게 만들어 줘요."
+  },
+  {
+    "id": 162,
+    "category": "몸",
+    "level": "어려움",
+    "question": "냄새를 맡고 숨을 쉬는 얼굴의 기관은 (162)?",
+    "hint": "코끝이 간질간질해요.",
+    "answer": "코",
+    "funFact": "코는 공기를 따뜻하고 촉촉하게 만들어 줘요."
+  },
+  {
+    "id": 163,
+    "category": "몸",
+    "level": "쉬움",
+    "question": "냄새를 맡고 숨을 쉬는 얼굴의 기관은 (163)?",
+    "hint": "코끝이 간질간질해요.",
+    "answer": "코",
+    "funFact": "코는 공기를 따뜻하고 촉촉하게 만들어 줘요."
+  },
+  {
+    "id": 164,
+    "category": "몸",
+    "level": "보통",
+    "question": "냄새를 맡고 숨을 쉬는 얼굴의 기관은 (164)?",
+    "hint": "코끝이 간질간질해요.",
+    "answer": "코",
+    "funFact": "코는 공기를 따뜻하고 촉촉하게 만들어 줘요."
+  },
+  {
+    "id": 165,
+    "category": "몸",
+    "level": "어려움",
+    "question": "냄새를 맡고 숨을 쉬는 얼굴의 기관은 (165)?",
+    "hint": "코끝이 간질간질해요.",
+    "answer": "코",
+    "funFact": "코는 공기를 따뜻하고 촉촉하게 만들어 줘요."
+  },
+  {
+    "id": 166,
+    "category": "몸",
+    "level": "쉬움",
+    "question": "냄새를 맡고 숨을 쉬는 얼굴의 기관은 (166)?",
+    "hint": "코끝이 간질간질해요.",
+    "answer": "코",
+    "funFact": "코는 공기를 따뜻하고 촉촉하게 만들어 줘요."
+  },
+  {
+    "id": 167,
+    "category": "교통",
+    "level": "보통",
+    "question": "철길 위를 길게 달리며 여러 칸이 연결된 교통수단은 (167)?",
+    "hint": "역에서 타요.",
+    "answer": "기차",
+    "funFact": "기차는 많은 사람을 한 번에 이동시킬 수 있어요."
+  },
+  {
+    "id": 168,
+    "category": "교통",
+    "level": "어려움",
+    "question": "철길 위를 길게 달리며 여러 칸이 연결된 교통수단은 (168)?",
+    "hint": "역에서 타요.",
+    "answer": "기차",
+    "funFact": "기차는 많은 사람을 한 번에 이동시킬 수 있어요."
+  },
+  {
+    "id": 169,
+    "category": "교통",
+    "level": "쉬움",
+    "question": "철길 위를 길게 달리며 여러 칸이 연결된 교통수단은 (169)?",
+    "hint": "역에서 타요.",
+    "answer": "기차",
+    "funFact": "기차는 많은 사람을 한 번에 이동시킬 수 있어요."
+  },
+  {
+    "id": 170,
+    "category": "교통",
+    "level": "보통",
+    "question": "철길 위를 길게 달리며 여러 칸이 연결된 교통수단은 (170)?",
+    "hint": "역에서 타요.",
+    "answer": "기차",
+    "funFact": "기차는 많은 사람을 한 번에 이동시킬 수 있어요."
+  },
+  {
+    "id": 171,
+    "category": "교통",
+    "level": "어려움",
+    "question": "철길 위를 길게 달리며 여러 칸이 연결된 교통수단은 (171)?",
+    "hint": "역에서 타요.",
+    "answer": "기차",
+    "funFact": "기차는 많은 사람을 한 번에 이동시킬 수 있어요."
+  },
+  {
+    "id": 172,
+    "category": "교통",
+    "level": "쉬움",
+    "question": "철길 위를 길게 달리며 여러 칸이 연결된 교통수단은 (172)?",
+    "hint": "역에서 타요.",
+    "answer": "기차",
+    "funFact": "기차는 많은 사람을 한 번에 이동시킬 수 있어요."
+  },
+  {
+    "id": 173,
+    "category": "교통",
+    "level": "보통",
+    "question": "철길 위를 길게 달리며 여러 칸이 연결된 교통수단은 (173)?",
+    "hint": "역에서 타요.",
+    "answer": "기차",
+    "funFact": "기차는 많은 사람을 한 번에 이동시킬 수 있어요."
+  },
+  {
+    "id": 174,
+    "category": "교통",
+    "level": "어려움",
+    "question": "철길 위를 길게 달리며 여러 칸이 연결된 교통수단은 (174)?",
+    "hint": "역에서 타요.",
+    "answer": "기차",
+    "funFact": "기차는 많은 사람을 한 번에 이동시킬 수 있어요."
+  },
+  {
+    "id": 175,
+    "category": "색깔",
+    "level": "쉬움",
+    "question": "하늘이 맑은 날 자주 보이는 색은 (175)?",
+    "hint": "바다색과 비슷해요.",
+    "answer": "파란색",
+    "funFact": "파란색은 시원하고 차분한 느낌을 줘요."
+  },
+  {
+    "id": 176,
+    "category": "색깔",
+    "level": "보통",
+    "question": "하늘이 맑은 날 자주 보이는 색은 (176)?",
+    "hint": "바다색과 비슷해요.",
+    "answer": "파란색",
+    "funFact": "파란색은 시원하고 차분한 느낌을 줘요."
+  },
+  {
+    "id": 177,
+    "category": "색깔",
+    "level": "어려움",
+    "question": "하늘이 맑은 날 자주 보이는 색은 (177)?",
+    "hint": "바다색과 비슷해요.",
+    "answer": "파란색",
+    "funFact": "파란색은 시원하고 차분한 느낌을 줘요."
+  },
+  {
+    "id": 178,
+    "category": "색깔",
+    "level": "쉬움",
+    "question": "하늘이 맑은 날 자주 보이는 색은 (178)?",
+    "hint": "바다색과 비슷해요.",
+    "answer": "파란색",
+    "funFact": "파란색은 시원하고 차분한 느낌을 줘요."
+  },
+  {
+    "id": 179,
+    "category": "색깔",
+    "level": "보통",
+    "question": "하늘이 맑은 날 자주 보이는 색은 (179)?",
+    "hint": "바다색과 비슷해요.",
+    "answer": "파란색",
+    "funFact": "파란색은 시원하고 차분한 느낌을 줘요."
+  },
+  {
+    "id": 180,
+    "category": "색깔",
+    "level": "어려움",
+    "question": "하늘이 맑은 날 자주 보이는 색은 (180)?",
+    "hint": "바다색과 비슷해요.",
+    "answer": "파란색",
+    "funFact": "파란색은 시원하고 차분한 느낌을 줘요."
+  },
+  {
+    "id": 181,
+    "category": "색깔",
+    "level": "쉬움",
+    "question": "하늘이 맑은 날 자주 보이는 색은 (181)?",
+    "hint": "바다색과 비슷해요.",
+    "answer": "파란색",
+    "funFact": "파란색은 시원하고 차분한 느낌을 줘요."
+  },
+  {
+    "id": 182,
+    "category": "색깔",
+    "level": "보통",
+    "question": "하늘이 맑은 날 자주 보이는 색은 (182)?",
+    "hint": "바다색과 비슷해요.",
+    "answer": "파란색",
+    "funFact": "파란색은 시원하고 차분한 느낌을 줘요."
+  },
+  {
+    "id": 183,
+    "category": "숫자",
+    "level": "어려움",
+    "question": "손가락 한 손으로 셀 수 있는 가장 큰 수는 (183)?",
+    "hint": "엄지부터 새끼손가락까지.",
+    "answer": "5",
+    "funFact": "숫자 놀이는 계산 감각을 키워줘요."
+  },
+  {
+    "id": 184,
+    "category": "숫자",
+    "level": "쉬움",
+    "question": "손가락 한 손으로 셀 수 있는 가장 큰 수는 (184)?",
+    "hint": "엄지부터 새끼손가락까지.",
+    "answer": "5",
+    "funFact": "숫자 놀이는 계산 감각을 키워줘요."
+  },
+  {
+    "id": 185,
+    "category": "숫자",
+    "level": "보통",
+    "question": "손가락 한 손으로 셀 수 있는 가장 큰 수는 (185)?",
+    "hint": "엄지부터 새끼손가락까지.",
+    "answer": "5",
+    "funFact": "숫자 놀이는 계산 감각을 키워줘요."
+  },
+  {
+    "id": 186,
+    "category": "숫자",
+    "level": "어려움",
+    "question": "손가락 한 손으로 셀 수 있는 가장 큰 수는 (186)?",
+    "hint": "엄지부터 새끼손가락까지.",
+    "answer": "5",
+    "funFact": "숫자 놀이는 계산 감각을 키워줘요."
+  },
+  {
+    "id": 187,
+    "category": "숫자",
+    "level": "쉬움",
+    "question": "손가락 한 손으로 셀 수 있는 가장 큰 수는 (187)?",
+    "hint": "엄지부터 새끼손가락까지.",
+    "answer": "5",
+    "funFact": "숫자 놀이는 계산 감각을 키워줘요."
+  },
+  {
+    "id": 188,
+    "category": "숫자",
+    "level": "보통",
+    "question": "손가락 한 손으로 셀 수 있는 가장 큰 수는 (188)?",
+    "hint": "엄지부터 새끼손가락까지.",
+    "answer": "5",
+    "funFact": "숫자 놀이는 계산 감각을 키워줘요."
+  },
+  {
+    "id": 189,
+    "category": "숫자",
+    "level": "어려움",
+    "question": "손가락 한 손으로 셀 수 있는 가장 큰 수는 (189)?",
+    "hint": "엄지부터 새끼손가락까지.",
+    "answer": "5",
+    "funFact": "숫자 놀이는 계산 감각을 키워줘요."
+  },
+  {
+    "id": 190,
+    "category": "숫자",
+    "level": "쉬움",
+    "question": "손가락 한 손으로 셀 수 있는 가장 큰 수는 (190)?",
+    "hint": "엄지부터 새끼손가락까지.",
+    "answer": "5",
+    "funFact": "숫자 놀이는 계산 감각을 키워줘요."
+  },
+  {
+    "id": 191,
+    "category": "과학",
+    "level": "보통",
+    "question": "물을 얼리면 어떻게 될까요 (191)?",
+    "hint": "냉동실에서 생겨요.",
+    "answer": "얼음",
+    "funFact": "물은 상태에 따라 액체, 고체, 기체로 바뀌어요."
+  },
+  {
+    "id": 192,
+    "category": "과학",
+    "level": "어려움",
+    "question": "물을 얼리면 어떻게 될까요 (192)?",
+    "hint": "냉동실에서 생겨요.",
+    "answer": "얼음",
+    "funFact": "물은 상태에 따라 액체, 고체, 기체로 바뀌어요."
+  },
+  {
+    "id": 193,
+    "category": "과학",
+    "level": "쉬움",
+    "question": "물을 얼리면 어떻게 될까요 (193)?",
+    "hint": "냉동실에서 생겨요.",
+    "answer": "얼음",
+    "funFact": "물은 상태에 따라 액체, 고체, 기체로 바뀌어요."
+  },
+  {
+    "id": 194,
+    "category": "과학",
+    "level": "보통",
+    "question": "물을 얼리면 어떻게 될까요 (194)?",
+    "hint": "냉동실에서 생겨요.",
+    "answer": "얼음",
+    "funFact": "물은 상태에 따라 액체, 고체, 기체로 바뀌어요."
+  },
+  {
+    "id": 195,
+    "category": "과학",
+    "level": "어려움",
+    "question": "물을 얼리면 어떻게 될까요 (195)?",
+    "hint": "냉동실에서 생겨요.",
+    "answer": "얼음",
+    "funFact": "물은 상태에 따라 액체, 고체, 기체로 바뀌어요."
+  },
+  {
+    "id": 196,
+    "category": "상식",
+    "level": "쉬움",
+    "question": "우리나라 수도는 어디일까요 (196)?",
+    "hint": "한강이 흐르는 큰 도시예요.",
+    "answer": "서울",
+    "funFact": "수도는 나라의 중심 도시 역할을 해요."
+  },
+  {
+    "id": 197,
+    "category": "상식",
+    "level": "보통",
+    "question": "우리나라 수도는 어디일까요 (197)?",
+    "hint": "한강이 흐르는 큰 도시예요.",
+    "answer": "서울",
+    "funFact": "수도는 나라의 중심 도시 역할을 해요."
+  },
+  {
+    "id": 198,
+    "category": "상식",
+    "level": "어려움",
+    "question": "우리나라 수도는 어디일까요 (198)?",
+    "hint": "한강이 흐르는 큰 도시예요.",
+    "answer": "서울",
+    "funFact": "수도는 나라의 중심 도시 역할을 해요."
+  },
+  {
+    "id": 199,
+    "category": "상식",
+    "level": "쉬움",
+    "question": "우리나라 수도는 어디일까요 (199)?",
+    "hint": "한강이 흐르는 큰 도시예요.",
+    "answer": "서울",
+    "funFact": "수도는 나라의 중심 도시 역할을 해요."
+  },
+  {
+    "id": 200,
+    "category": "상식",
+    "level": "보통",
+    "question": "우리나라 수도는 어디일까요 (200)?",
+    "hint": "한강이 흐르는 큰 도시예요.",
+    "answer": "서울",
+    "funFact": "수도는 나라의 중심 도시 역할을 해요."
   }
 ]
