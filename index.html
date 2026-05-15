@@ -8,20 +8,33 @@
 </head>
 <body>
   <main class="app" aria-label="두근두근 어린이 퀴즈 앱">
-    <section id="home-screen" class="screen" aria-label="시작 화면">
+    <section id="home-screen" class="screen home-screen" aria-label="시작 화면">
+      <div class="home-hero" aria-hidden="true">🐣 🧠 ✨ 🎈</div>
       <h1>두근두근 어린이 퀴즈</h1>
       <p class="subtitle">문제를 듣고 생각한 다음 정답을 확인해요!</p>
-      <div class="emoji-row" aria-hidden="true">🐣 🧠 ✨ 🎈</div>
+
       <div class="home-actions">
-        <button id="start-btn" class="btn btn-primary" aria-label="시작하기">시작하기</button>
-        <button id="today-random-btn" class="btn" aria-label="오늘의 랜덤 문제">오늘의 랜덤 문제</button>
+        <button id="start-btn" class="btn btn-start" aria-label="시작하기">🚀 시작하기</button>
+        <button id="today-random-btn" class="btn btn-random" aria-label="오늘의 랜덤 문제">🎲 오늘의 랜덤 문제</button>
       </div>
+
+      <section class="mini-guide" aria-label="퀴즈 이용 방법">
+        <article class="guide-card">🔊 <strong>문제를 들어요</strong></article>
+        <article class="guide-card">🧠 <strong>먼저 생각해요</strong></article>
+        <article class="guide-card">🎁 <strong>정답을 확인해요</strong></article>
+      </section>
       <p class="tip">정답을 바로 보지 말고 먼저 생각해 봐요!</p>
     </section>
 
     <section id="quiz-screen" class="screen hidden" aria-label="퀴즈 화면">
-      <header class="quiz-header">
-        <div id="progress-text">1 / 200</div>
+      <header class="quiz-header card-surface">
+        <div class="progress-top">
+          <div id="progress-text" class="progress-text">1 / 200</div>
+          <div class="badges">
+            <span id="category-badge" class="badge">카테고리</span>
+            <span id="level-badge" class="badge level">난이도</span>
+          </div>
+        </div>
         <div class="progress-bar" aria-label="진행률">
           <div id="progress-fill"></div>
         </div>
@@ -29,27 +42,23 @@
 
       <nav id="category-chips" class="chips" aria-label="카테고리 선택"></nav>
 
-      <div class="badges">
-        <span id="category-badge" class="badge">카테고리</span>
-        <span id="level-badge" class="badge level">난이도</span>
-      </div>
-
-      <article class="card" aria-label="문제 카드">
+      <article class="card quiz-card" aria-label="문제 카드">
+        <div class="question-icon" aria-hidden="true">❓</div>
         <h2 id="question-text">문제를 불러오는 중...</h2>
       </article>
 
-      <section id="hint-box" class="reveal hidden" aria-label="힌트 영역"></section>
-      <section id="answer-box" class="reveal hidden" aria-label="정답 영역"></section>
-      <section id="fact-box" class="reveal hidden" aria-label="재미 정보 영역"></section>
+      <section id="hint-box" class="reveal hint hidden" aria-label="힌트 영역"></section>
+      <section id="answer-box" class="reveal answer hidden" aria-label="정답 영역"></section>
+      <section id="fact-box" class="reveal fact hidden" aria-label="재미 정보 영역"></section>
       <section id="praise-box" class="praise hidden" aria-live="polite"></section>
 
       <div class="actions">
-        <button id="speak-btn" class="btn" aria-label="문제 듣기">문제 듣기</button>
-        <button id="hint-btn" class="btn">힌트 보기</button>
-        <button id="answer-btn" class="btn btn-primary">정답 보기</button>
-        <button id="next-btn" class="btn">다음 문제</button>
-        <button id="random-btn" class="btn">오늘의 랜덤 문제</button>
-        <button id="home-btn" class="btn">처음으로</button>
+        <button id="speak-btn" class="btn btn-speak" aria-label="문제 듣기">🔊 문제 듣기</button>
+        <button id="hint-btn" class="btn btn-hint">💡 힌트 보기</button>
+        <button id="answer-btn" class="btn btn-answer">🎁 정답 보기</button>
+        <button id="next-btn" class="btn btn-next">👉 다음 문제</button>
+        <button id="random-btn" class="btn btn-random">🎲 랜덤 문제</button>
+        <button id="home-btn" class="btn btn-home">🏠 처음으로</button>
       </div>
       <p id="error-text" class="error hidden"></p>
     </section>
