@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>두근두근 어린이 퀴즈</title>
+  <link rel="stylesheet" href="./css/style.css" />
+</head>
+<body>
+  <main class="app" aria-label="두근두근 어린이 퀴즈 앱">
+    <section id="home-screen" class="screen" aria-label="시작 화면">
+      <h1>두근두근 어린이 퀴즈</h1>
+      <p class="subtitle">문제를 듣고 생각한 다음 정답을 확인해요!</p>
+      <div class="emoji-row" aria-hidden="true">🐣 🧠 ✨ 🎈</div>
+      <div class="home-actions">
+        <button id="start-btn" class="btn btn-primary" aria-label="시작하기">시작하기</button>
+        <button id="today-random-btn" class="btn" aria-label="오늘의 랜덤 문제">오늘의 랜덤 문제</button>
+      </div>
+      <p class="tip">정답을 바로 보지 말고 먼저 생각해 봐요!</p>
+    </section>
+
+    <section id="quiz-screen" class="screen hidden" aria-label="퀴즈 화면">
+      <header class="quiz-header">
+        <div id="progress-text">1 / 200</div>
+        <div class="progress-bar" aria-label="진행률">
+          <div id="progress-fill"></div>
+        </div>
+      </header>
+
+      <nav id="category-chips" class="chips" aria-label="카테고리 선택"></nav>
+
+      <div class="badges">
+        <span id="category-badge" class="badge">카테고리</span>
+        <span id="level-badge" class="badge level">난이도</span>
+      </div>
+
+      <article class="card" aria-label="문제 카드">
+        <h2 id="question-text">문제를 불러오는 중...</h2>
+      </article>
+
+      <section id="hint-box" class="reveal hidden" aria-label="힌트 영역"></section>
+      <section id="answer-box" class="reveal hidden" aria-label="정답 영역"></section>
+      <section id="fact-box" class="reveal hidden" aria-label="재미 정보 영역"></section>
+      <section id="praise-box" class="praise hidden" aria-live="polite"></section>
+
+      <div class="actions">
+        <button id="speak-btn" class="btn">문제 듣기</button>
+        <button id="hint-btn" class="btn">힌트 보기</button>
+        <button id="answer-btn" class="btn btn-primary">정답 보기</button>
+        <button id="next-btn" class="btn">다음 문제</button>
+        <button id="random-btn" class="btn">랜덤 문제</button>
+        <button id="home-btn" class="btn">처음으로</button>
+      </div>
+      <p id="error-text" class="error hidden"></p>
+    </section>
+  </main>
+  <script src="./js/app.js" defer></script>
+</body>
+</html>
