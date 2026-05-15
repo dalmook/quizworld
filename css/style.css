@@ -1,0 +1,157 @@
+:root {
+  --bg: #f8fbff;
+  --bg-soft: #eef8ff;
+  --card: #ffffff;
+  --yellow: #ffe58a;
+  --sky: #9ddcff;
+  --mint: #b8f2d3;
+  --lavender: #d8ccff;
+  --peach: #ffd9b3;
+  --text: #273043;
+  --shadow: 0 12px 26px rgba(39, 48, 67, 0.12);
+  --shadow-soft: 0 6px 16px rgba(39, 48, 67, 0.08);
+  --radius: 24px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Pretendard", "Noto Sans KR", sans-serif;
+  color: var(--text);
+  background:
+    radial-gradient(circle at 10% 15%, rgba(157, 220, 255, 0.45) 0, rgba(157, 220, 255, 0) 22%),
+    radial-gradient(circle at 90% 20%, rgba(216, 204, 255, 0.5) 0, rgba(216, 204, 255, 0) 20%),
+    radial-gradient(circle at 18% 80%, rgba(184, 242, 211, 0.45) 0, rgba(184, 242, 211, 0) 22%),
+    linear-gradient(180deg, var(--bg), var(--bg-soft));
+}
+
+.app {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 16px;
+  min-height: 100vh;
+  position: relative;
+}
+
+.app::before,
+.app::after {
+  content: "✨";
+  position: absolute;
+  font-size: 1.3rem;
+  opacity: 0.4;
+  pointer-events: none;
+}
+.app::before { top: 42px; right: 18px; }
+.app::after { bottom: 120px; left: 10px; }
+
+.screen { display: flex; flex-direction: column; gap: 12px; }
+.hidden { display: none !important; }
+
+#home-screen {
+  background: var(--card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 22px 18px;
+  margin-top: 8px;
+}
+
+h1 { font-size: 2.15rem; margin: 4px 0 0; line-height: 1.2; }
+.subtitle, .tip { font-size: 1.08rem; line-height: 1.5; }
+.emoji-row {
+  font-size: 2.2rem;
+  background: linear-gradient(90deg, #fffaf0, #f3f9ff);
+  border-radius: 16px;
+  padding: 10px;
+  text-align: center;
+}
+
+.home-actions,
+.actions { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+
+.btn {
+  border: none;
+  border-radius: 16px;
+  min-height: 56px;
+  padding: 16px 14px;
+  font-size: 1.02rem;
+  font-weight: 700;
+  background: var(--mint);
+  box-shadow: var(--shadow-soft);
+  cursor: pointer;
+}
+.btn-primary { background: var(--yellow); box-shadow: var(--shadow); }
+.btn:hover { filter: brightness(0.98); }
+.btn:active { transform: translateY(1px) scale(0.985); }
+
+#today-random-btn,
+#random-btn {
+  background: linear-gradient(135deg, #fff1a8, #ffd3bf);
+}
+#speak-btn::before { content: "🔊 "; }
+#answer-btn {
+  background: linear-gradient(135deg, #ffd870, #ffec9e);
+  border: 2px solid #f6ca4f;
+}
+
+.quiz-header { display: flex; flex-direction: column; gap: 8px; }
+.progress-bar { width: 100%; height: 14px; background: #e4edf7; border-radius: 999px; overflow: hidden; }
+#progress-fill { height: 100%; width: 0; background: linear-gradient(90deg, var(--sky), var(--lavender)); transition: width .28s ease; }
+
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip {
+  border: 2px solid #dbe9f8;
+  background: #fff;
+  border-radius: 999px;
+  padding: 9px 14px;
+  font-weight: 600;
+}
+.chip.active { background: var(--sky); border-color: var(--sky); }
+
+.badges { display: flex; gap: 8px; }
+.badge { padding: 6px 10px; border-radius: 999px; background: var(--lavender); font-weight: 700; }
+
+.card,
+.reveal,
+.praise {
+  background: var(--card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 22px 20px;
+  animation: fadeUp .35s ease;
+}
+
+.card h2 {
+  margin: 0;
+  font-size: 1.5rem;
+  line-height: 1.45;
+  min-height: 98px;
+}
+
+.reveal { border: 2px dashed #e2eaf4; }
+#answer-box { border-color: var(--mint); animation: answerPop .35s ease; }
+.error { color: #d13f5f; font-weight: 700; }
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes answerPop {
+  from { opacity: 0; transform: translateY(12px) scale(.98); }
+  to { opacity: 1; transform: none; }
+}
+
+@media (min-width: 768px) {
+  .app { padding: 28px 20px; }
+  #home-screen,
+  #quiz-screen {
+    max-width: 680px;
+    margin: 0 auto;
+  }
+  h1 { font-size: 2.5rem; }
+  .btn { font-size: 1.08rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}
