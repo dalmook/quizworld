@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>두근두근 어린이 퀴즈</title>
+  <link rel="stylesheet" href="./css/style.css" />
+</head>
+<body>
+  <main class="app-shell" aria-label="키즈 퀴즈 월드 앱">
+    <section id="home-screen" class="screen home-screen" aria-label="시작 화면">
+      <p class="home-logo">Quiz World</p>
+      <h1 class="home-title">두근두근 어린이 퀴즈</h1>
+      <div class="home-hero mascot-card" aria-hidden="true">🐣 🧠 🎈 ⭐</div>
+      <p class="home-subtitle">문제를 듣고, 생각하고, 정답을 확인해요!</p>
+
+      <div class="home-actions">
+        <button id="start-btn" class="btn btn-start" aria-label="퀴즈 시작하기">🚀 퀴즈 시작하기</button>
+        <button id="today-random-btn" class="btn btn-random" aria-label="랜덤 문제">🎲 랜덤 문제</button>
+      </div>
+
+      <div class="guide-grid" aria-label="이용 안내">
+        <article class="guide-item">🔊 듣기</article>
+        <article class="guide-item">💡 생각하기</article>
+        <article class="guide-item">🎁 정답 확인</article>
+      </div>
+    </section>
+
+    <section id="quiz-screen" class="screen quiz-screen hidden" aria-label="퀴즈 화면">
+      <header class="quiz-header">
+        <button id="home-btn" class="btn btn-home" aria-label="처음으로">🏠</button>
+        <p class="header-brand">Quiz World</p>
+        <p id="progress-text" class="header-progress">1/200</p>
+      </header>
+
+      <div class="progress-track" aria-label="진행률">
+        <div id="progress-fill" class="progress-fill"></div>
+      </div>
+
+      <nav id="category-chips" class="chips" aria-label="카테고리 필터"></nav>
+
+      <article class="quiz-card" aria-label="문제 카드">
+        <div class="quiz-meta">
+          <span id="category-badge" class="badge">카테고리</span>
+          <span id="level-badge" class="badge">난이도</span>
+        </div>
+        <div id="question-emoji" class="question-emoji" aria-hidden="true">❓</div>
+        <h2 id="question-text">문제를 불러오는 중...</h2>
+      </article>
+
+      <section id="hint-box" class="panel hint-panel hidden" aria-label="힌트"></section>
+      <section id="answer-box" class="panel answer-panel hidden" aria-label="정답"></section>
+      <section id="fact-box" class="panel fact-panel hidden" aria-label="재미 정보"></section>
+      <section id="praise-box" class="praise-panel hidden" aria-live="polite"></section>
+
+      <div class="actions">
+        <button id="speak-btn" class="btn btn-speak">🔊 문제 듣기</button>
+        <button id="hint-btn" class="btn btn-hint">💡 힌트 보기</button>
+        <button id="answer-btn" class="btn btn-answer">🎁 정답 보기</button>
+        <button id="next-btn" class="btn btn-next">👉 다음 문제</button>
+        <button id="random-btn" class="btn btn-random">🎲 랜덤 문제</button>
+      </div>
+
+      <p id="error-text" class="error hidden"></p>
+    </section>
+  </main>
+
+  <script src="./js/app.js" defer></script>
+</body>
+</html>
